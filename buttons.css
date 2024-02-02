@@ -13,16 +13,16 @@
     
 }
 #play{
-    background-image: url(images/play.svg);
+    background-image: url('images/play.svg');
   
 }
 
 #pausa{
-    background-image: url(images/pause.svg);
+    background-image: url('images/pause.svg');
 }
 #backward{
-    background-image: url(images/-10.svg);
+    background-image: url('images/-10.svg');
 }
 #forward{
-    background-image: url(images/+10.svg);
+    background-image: url('images/+10.svg');
 }
